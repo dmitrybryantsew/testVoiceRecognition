@@ -1,6 +1,6 @@
 #prettyTitle
 
-Basic voice recognition program that uses vosk-API as recognition tool and pyperclip for easy copypasting
+Basic voice recognition program that uses vosk-API as recognition tool, pyqt for window and pyperclip for easy copypasting
 
 tested on rus and eng, was better for me then other opensource options like sphinx or deepspeech
 
