@@ -2,7 +2,7 @@
 
 Basic voice recognition program that uses vosk-API as recognition tool, pyqt for window and pyperclip for easy copypasting
 
-tested on rus and eng, was better for me then other opensource options like sphinx or deepspeech
+tested on rus and eng and it was better for me then other opensource options like sphinx or deepspeech
 
 to use it you need https://alphacephei.com/vosk/models for your language and paste extracted folder name to line 99 in main (self.recognizer = Recognizer("folder name goes here"))
 
